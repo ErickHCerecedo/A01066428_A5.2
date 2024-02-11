@@ -1,0 +1,15 @@
+------ Sales Results ------
+Total sales cost: $2481.86
+Time elapsed: 0.0012052059 seconds
+---------------------------
+
+------ Sales Results ------
+Total sales cost: $166568.23
+Time elapsed: 0.0005788803 seconds
+---------------------------
+
+------ Sales Results ------
+Total sales cost: $165235.37
+Time elapsed: 0.0005795956 seconds
+---------------------------
+
